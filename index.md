@@ -3,9 +3,9 @@
 Google Code-in (GCI) is an annual programming competition hosted by Google LLC that introduces pre-university students to the world of open source and allows them to complete bite-sized tasks specified by various, partnering open source organizations. 
 
 ## The Journey
-This is the first time I participated in [Google Code-In](https://codein.withgoogle.com/). I’d turned 13 in 2019, so, I got eligible this year itself. I was always interested in cartography, so I chose to work with [OSGeo](osgeo.org), which is a non-profit organization. 
+This is the first time I participated in [Google Code-In](https://codein.withgoogle.com/). I’d turned 13 in 2019, so, I got eligible this year itself. I was always interested in cartography, so I chose to work with [OSGeo](https://www.osgeo.org/), which is a non-profit organization. 
 
-On 2nd December, 2019, when the contest was about to begin, I was nervous. I had never contributed to the open source community before. It was seeming so daunting, with such vast ocean of knowledge lying open to me to contribute and learn. But, as I started doing some tasks, I quickly understood how things worked, and now, it seems really easy to contribute to the community, thanks specially to the wonderful team of mentors were always behind my back to guide me and help me. Whenever a task is completed and approved, mentors used to acknowledge your participation by saying "Thanks for contributing to OSGeo" and it meant a lot. It really meant a lot to feel part of the team who is working on such a big project. The encouraging words of [Victoria](https://github.com/vrautenbach) were always helpful, whenever I felt low and depressed.
+On 2nd December, 2019, when the contest was about to begin, I was nervous. I had never contributed to the open source community before. It seemed extremely daunting, with such vast ocean of knowledge lying open to me to contribute and learn. But, as I started doing some tasks, I quickly understood how things worked, and now, it seems really easy to contribute to the community, thanks specially to the wonderful team of mentors, who were always behind my back to guide me and help me. Whenever a task was completed and approved, mentors used to acknowledge the participation by saying "Thanks for contributing to OSGeo!" and it meant a lot. It really meant a lot to feel part of the team who is working on such a big project. The encouraging words of [Victoria](https://github.com/vrautenbach) were always helpful, whenever I felt low and depressed.
 
 ![completed.png]({{site.baseurl}}/completed.png)
 
@@ -13,9 +13,9 @@ Not only the mentors, it was also fun to interct with fellow participants. They 
 
 ## The Learnings
 
-Participation in GCI-2019, is perhaps one of the most important decisions I have taken in my life till now. Not only it introduced me to the vast ocean of knowledge and information available in the Open Source world, but it also helped in improving me abilities to work in a team and interact online with the fellow team members responsibly.
+Participating in GCI-2019, is perhaps one of the most important decisions I have taken in my life till now. I not only introduced me to the vast ocean of knowledge and information available in the Open Source world, but it also helped improve my abilities to work in a team and interact online with the fellow team members responsibly.
 
-Among the tasks I completed, the easy tasks were really fun to do. However, the challenging tasks took a little time. I had to ask mentors for help. Sometimes, I felt really dumb, as I was not able to think and find out a way even with the mentor helping me. But, all mentors of OSGeo are helpful; they motivated me to continue working to complete the task.
+Among the tasks I completed, the easy tasks were really fun to do. However, the challenging tasks took a little time. I had to ask mentors for help. Sometimes, I felt really dumb, as I was not able to think and find out a way even with the mentor helping me. But, all mentors of OSGeo are extremely helpful; they motivated me to continue working to complete the task.
 
 I now feel proud of my decision to work with OSGeo. I always felt interested in Geography and specially the cartography and this event has made me learnt a lot about OSGeo. I have learnt how big projects like GeoNode and GRASS are built, with the collective contribution of hundreds of people. 
 
@@ -24,4 +24,4 @@ I look forward to participate in GCI next year, and hope to learn more new thing
 
 _Navya Garg_
 
-16.01.2020_
+_16.01.2020_
