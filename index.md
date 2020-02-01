@@ -7,7 +7,7 @@ This is the first time I participated in [Google Code-In](https://codein.withgoo
 
 On 2nd December, 2019, when the contest was about to begin, I was nervous. I had never contributed to the open source community before. It seemed extremely daunting, with such vast ocean of knowledge lying open to me to contribute and learn. But, as I started doing some tasks, I quickly understood how things worked, and now, it seems really easy to contribute to the community, thanks specially to the wonderful team of mentors, who were always behind my back to guide me and help me. Whenever a task was completed and approved, mentors used to acknowledge the participation by saying "Thanks for contributing to OSGeo!" and it meant a lot. It really meant a lot to feel part of the team who is working on such a big project. The encouraging words of all mentors, especially [Victoria](https://github.com/vrautenbach) were always helpful, whenever I felt low and depressed.
 
-![](https://github.com/navgarg/navgarg/blob/master/Completed_Tasks.png)
+![]({{site.baseurl}}/Completed_Tasks.png)
 
 Not only the mentors, it was also fun to interct with fellow participants. They were all so helpful and encouraging, that we never felt like competing against each other. Working with [Shivam Rai](https://github.com/ShivamRai2003), [Pranay Joshi](https://github.com/pranayteaches), [Dhanus](https://github.com/Dhanus3133) and other participants was real fun. 
 
